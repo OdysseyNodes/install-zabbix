@@ -25,7 +25,7 @@ srcdir="/usr/local/src"
 zabbixconf="/usr/local/etc/zabbix_agent2.conf"
 
 # Zabbix host
-zabbixhost="192.168.1.69"
+zabbixhost="23.150.24.199"
 
 # Temp dir for downloads, etc.
 tmpdir="$HOME/temp"
